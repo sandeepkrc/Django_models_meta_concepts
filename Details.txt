@@ -1,0 +1,11 @@
+1..Different type of attribue of model
+like to change the table name which is going to be created default by change
+
+ans   >>  
+
+in models.py file 
+class Student(models.Model):
+    id = models.IntergerField()
+    name = models.CharField(max_length=100)
+    class Meta:
+        db_table = "customize the table name here"
