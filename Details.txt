@@ -1,3 +1,11 @@
+2.Model field Reference  --- wop
+
+3.Field type   -wop
+
+4. Attribute Of Field   -- wop
+
+5. Model Meta Option  --- wop
+
 1..Different type of attribue of model
 like to change the table name which is going to be created default by change
 
